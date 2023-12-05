@@ -1,10 +1,10 @@
 # Hello World
 
-This is my home page! My name is Evan Thompson and I am at [Cal State Fullerton] (http://www.fullerton.edu/) and my major is Computer Science
+This is my home page! My name is Evan Thompson and I am at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science
 
 ## Computer Science Projects
 
-My Github page is [http://github.com/evanthompson86]
+My Github page is [http://github.com/evanthompson86](http://github.com/evanthompson86)
 
 ### CPSC 120
 
